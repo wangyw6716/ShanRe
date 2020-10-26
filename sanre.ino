@@ -2,9 +2,9 @@
 #define BLINKER_MIOT_OUTLET   //小爱同学
 #include <Blinker.h>
 
-char auth[] = "85f4159c24c2";
-char ssid[] = "WWW_Home";
-char pswd[] = "671682551";
+char auth[] = "*********";
+char ssid[] = "*********";
+char pswd[] = "*********";
 
 // 新建组件对象
 BlinkerButton Button1("btn-on");     //定义按钮数据
